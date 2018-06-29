@@ -1,7 +1,7 @@
 # easyui-history
 Easyui Freeware Edition 历史版本下载
 
-> 所有版本采自 [Easyui 官方网站](http://www.jeasyui.com)，代码无任何更改。
+> 所有版本采自 [EasyUI 官方网站](http://www.jeasyui.com)，代码无任何更改。
 
 # Freeware License
 
